@@ -1,0 +1,8 @@
+{
+  "name": "E-Absensi SMK Prima Unggul",
+  "description": "Sistem Absensi Digital Modern untuk SMK Prima Unggul Ciledug, Tangerang.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
